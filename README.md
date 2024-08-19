@@ -4,7 +4,7 @@
 1. applicationId ``io.dlwlrma.millie``
 2. minSdk ``24``
 3. targetSdk ``34``
-4. grade ``build.gradle.kts``
+4. gradle ``build.gradle.kts``
 5. language ``kotlin``
 
 ## 사용한 기술스택
