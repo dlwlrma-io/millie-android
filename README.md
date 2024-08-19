@@ -13,5 +13,5 @@
 3. Android Jetpack - Dagger Hilt
 4. Android Jetpack - ViewModel (MVVM) + StateFlow
 6. Clean Architecture (필요한 구성요소로 간소화)
-5. Retrofit + Sandwich
+5. Retrofit + Sandwich
 6. Glide (이미지 로컬 캐싱)
